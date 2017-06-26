@@ -117,7 +117,7 @@ allows the business to be data-driven, make better decisions and be competitive.
 
 # Example metrics
 
-* **Activation**: User visits and doesn't leave
+* **Acquisition**: User visits and doesn't leave
   * UV, Bounce Rate
 * **Activation**: 1st visit experience
   * Number of page views/time/clicks
@@ -153,9 +153,9 @@ allows the business to be data-driven, make better decisions and be competitive.
 
 # Conclusion
 
-### Digital transformation lies at the crossroad of operational efficiency, business agility and customer experience.
+### Digital transformation lies at the crossroad of **operational efficiency**, **business agility** and **customer experience**.
 
-### Organizations that undergo the digital transformation will be empowered to uncover new opportunities and gain a competitive advantage.
+### Organizations that undergo the digital transformation will be empowered to **uncover new opportunities** and **gain a competitive advantage**.
 
 ![](https://blogs-images.forbes.com/sap/files/2016/05/SAPPHIRE-NOW-Digital-Transformation-in-Financial-Services-05-25-2016-A-1200x800.jpg)
 
