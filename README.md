@@ -2,7 +2,7 @@
 
 ## Presented by Evgeny Demchenko
 
-![](avatar2.jpg)
+<img src="avatar2.jpg" width="200"/>
 
 Until recently Evgeny was a CTO of a [Chinese cruise booking platform](https://www.ylly.com/) taking an offline traditional travel agency business to become a software business. And now he's a CTO of a recruitment company taking it through a similar transformation.
 
