@@ -2,6 +2,8 @@
 
 ![](http://www.oecd.org/media/oecdorg/directorates/directorateforsciencetechnologyandindustry/digital/shutterstock_483201079.jpg)
 
+^ Slides are created using Deckset software.
+
 ---
 
 # [fit] Evgeny Demchenko
@@ -72,12 +74,12 @@ According to the Economist Intelligence Unit (EIU).
 * Computers are much cheaper and better at certain tasks than humans
 * Keep the "human in the loop"
 
-^ By automating parts of your business flow while still keeping a "human in the loop" 
+^ By automating parts of your business flow while still keeping a "human in the loop"
 you can make your business model more scalable and grow your volume without increasing headcount in operations.
 
 ---
 
-# Power to the **customer** 
+# Power to the **customer**
 
 ## Digital products help to **engage** customers
 
@@ -87,7 +89,7 @@ you can make your business model more scalable and grow your volume without incr
   2. chat with a bot/person
   3. deal with someone on a phone/email/in person
 
-^ Especially in the younger demographics, customers like to "self-serve" 
+^ Especially in the younger demographics, customers like to "self-serve"
 and use software to solve their needs rather than traditional ways.
 
 ---
@@ -102,7 +104,7 @@ and use software to solve their needs rather than traditional ways.
 * Validate your assumptions
 * Act on the real data
 
-^ Making the software core of a business and instrumenting it with event tracking and metrics 
+^ Making the software core of a business and instrumenting it with event tracking and metrics
 allows the business to be data-driven, make better decisions and be competitive.
 
 ![](http://www.cu-tcdc.com/wp-content/uploads/2014/07/Diagrame-031.jpg)
@@ -116,7 +118,7 @@ allows the business to be data-driven, make better decisions and be competitive.
 # Example metrics
 
 * **Activation**: User visits and doesn't leave
-  * UV, Bounce Rate 
+  * UV, Bounce Rate
 * **Activation**: 1st visit experience
   * Number of page views/time/clicks
   * Sign Up / Subscribe

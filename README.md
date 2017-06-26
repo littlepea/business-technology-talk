@@ -1,8 +1,12 @@
 # Traditional Business Transformation with Technology
 
+* [Slides](assets/slides.pdf) (PDF)
+* [Event Page](https://www.eventbank.cn/event/10147/)
+* [Event Flyer](assets/flyer.jpg)
+
 ## Presented by Evgeny Demchenko
 
-<img src="avatar2.jpg" width="200"/>
+<img src="assets/avatar2.jpg" width="200"/>
 
 Until recently Evgeny was a CTO of a [Chinese cruise booking platform](https://www.ylly.com/) taking an offline traditional travel agency business to become a software business. And now he's a CTO of a recruitment company taking it through a similar transformation.
 
@@ -29,3 +33,7 @@ Making the software core of a business and instrumenting it with event tracking 
 * Automation use-cases to reduce operating costs and scale the business model
 * Use digital products to engage your customers
 * Use analytics tools to make data-driven busines decisions
+
+## Event flyer
+
+<img src="assets/flyer.jpg" width="200"/>
