@@ -36,4 +36,4 @@ Making the software core of a business and instrumenting it with event tracking 
 
 ## Event flyer
 
-<img src="assets/flyer.jpg" width="200"/>
+<img src="assets/flyer.jpg" width="400"/>
